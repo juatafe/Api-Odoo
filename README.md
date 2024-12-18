@@ -81,6 +81,13 @@ development:
         user: usuari
         password: **********47d1e3ac55**********
 ```
+## Obtenir el nom de la base de dades
+
+Si no recordes el nom de la teva base de dades, pots trobar-lo a la secció de configuració del teu compte d'Odoo. Pots accedir a la pàgina de gestió de bases de dades d'Odoo per veure totes les bases de dades disponibles. Ves a la següent URL i inicia sessió si és necessari:
+
+https://www.dominiodoo.es**/web/database/manager**
+![Nom de la base de dades](img/basededades.png)
+---
 
 ## Configuració de l'entorn
 
