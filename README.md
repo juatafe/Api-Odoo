@@ -4,6 +4,12 @@ Aquest projecte permet interactuar amb l'API d'Odoo mitjançant XML-RPC. La seg�
 
 ---
 
+## Compatibilitat
+
+Aquest projecte ha estat provat amb Odoo 16.0.
+
+---
+
 ## 1. Accedeix al teu perfil
 Primer, inicia sessió al teu compte d'Odoo. Fes clic a la teva foto o icona de perfil a la cantonada superior dreta i selecciona **"El meu perfil"**.
 
