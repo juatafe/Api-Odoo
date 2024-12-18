@@ -82,6 +82,24 @@ development:
         password: **********47d1e3ac55**********
 ```
 
+## Configuració de l'entorn
+
+El fitxer `main.py` està configurat per defecte per utilitzar l'entorn de producció. Si vols utilitzar l'entorn de desenvolupament, has de canviar la variable `env` a `development`.
+
+### Canviar l'entorn
+
+1. Obre el fitxer `main.py`.
+2. Cerca la línia següent:
+   ```python
+   env = "production"  # Canviar a 'development' per a entorns locals
+```
+3. Canvia "production" a "development":
+   ```python
+   env = "development"  # Canviar a 'development' per a entorns locals
+   ```
+Això farà que el script utilitze les propietats de connexió definides per a l'entorn de desenvolupament en el fitxer config.yml.
+
+
 ## Executar el script
 
 Per executar el script `main.py`, assegura't d'estar en un entorn Python 3.5 o superior. Pots seguir aquests passos:
