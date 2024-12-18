@@ -95,7 +95,7 @@ El fitxer `main.py` està configurat per defecte per utilitzar l'entorn de produ
    ```
 3. Canvia "production" a "development": 
    ```python
-   env = "development"  # Canviar a 'development' per a entorns locals
+   env = "development"  # Canviar a 'production' per a entorns en producció
    ```
 Això farà que el script utilitze les propietats de connexió definides per a l'entorn de desenvolupament en el fitxer config.yml.
 
