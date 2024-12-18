@@ -10,11 +10,14 @@ Per obtenir la clau d'API, segueix aquests passos:
    ![El meu perfil](img/elmeuperfil.png)
 
 2. Tria l'opció "El meu perfil".
+   ![El meu perfil](img/elmeuperfil2.png)
 
 3. Ves a la pestanya "Seguretat al compte".
    ![Seguretat](img/seguretat.png)
 
 4. Afig una clau d'API.
+   ![Afig clau d'API](img/afegir-clau-api.png)
+
 
 ## Configuració
 
