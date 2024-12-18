@@ -89,7 +89,6 @@ Si no recordes el nom de la teva base de dades, pots trobar-lo a la secció de c
   ```plaintext
   https://www.dominiodoo.es/web/database/manager
   ```
-![Nom de la base de dades](img/basededades.png)
 ---
 
 ## Configuració de l'entorn
